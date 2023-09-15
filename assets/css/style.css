@@ -48,7 +48,7 @@ p {
 
 .content-banner {
   width: 510px;
-  height: fit-content;
+  height: 630px;
   margin: 0px auto;
 }
 
@@ -59,9 +59,8 @@ p {
 }
 
 .content-banner button {
-  margin-top: 24px;
+  margin: 64px 0;
   padding: 20px 50px;
-  margin-bottom: 75px;
   border: 2px solid #3BA1CD;
   border-radius: 4px;
   color: #31A8DD;
@@ -74,8 +73,7 @@ p {
 }
 
 .content-banner button:hover {
-  padding: 22px 52px;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.7);
   transition: 0.05s;
 }
 
