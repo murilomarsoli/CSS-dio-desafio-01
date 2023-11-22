@@ -3,6 +3,7 @@
 ## Acesse a página: [https://murilomarsoli.github.io/CSS-dio-desafio-01/](https://murilomarsoli.github.io/landing-page-dio-css-01/)
 
 ## Protótipo utilizado no projeto (FIGMA)
-https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0%3A1
+
+<https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=0%3A1>
 
 ![Desafio 01 CSS](desafio-proj01.png)
