@@ -1,6 +1,6 @@
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
-## Acesse a página: [https://murilomarsoli.github.io/CSS-dio-desafio-01/](https://murilomarsoli.github.io/landing-page-dio-css-01/)
+## Acesse a página: [https://murilomarsoli.github.io/landing-page-dio/](https://murilomarsoli.github.io/landing-page-dio/)
 
 ## Protótipo utilizado no projeto (FIGMA)
 
